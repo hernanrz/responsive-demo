@@ -1,0 +1,12 @@
+$body-color: #fff;
+$theme-colors: (
+  "primary": #009990,
+);
+$body-bg: darken(#009990, 17.5%);
+
+@import "bootstrap/scss/bootstrap";
+
+.Footer {
+  text-align: center;
+  margin-top: 2em;
+}
